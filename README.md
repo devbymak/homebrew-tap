@@ -5,11 +5,11 @@ Homebrew casks for devbymak apps.
 ```sh
 brew tap devbymak/tap
 brew trust devbymak/tap
-brew install --cask baadgir
+brew install --cask fan-control
 ```
 
 | Cask | App |
 | --- | --- |
-| `baadgir` | [Baadgir](https://github.com/devbymak/baadgir): menu bar temperatures and fan control for Apple silicon Macs |
+| `fan-control` | [Fan Control](https://github.com/devbymak/fan-control): fan curves and temperatures in the menu bar for Apple silicon Macs |
 
 Casks here are updated automatically by each app's release workflow.
