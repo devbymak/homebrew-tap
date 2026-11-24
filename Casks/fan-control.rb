@@ -1,6 +1,6 @@
 cask "fan-control" do
-  version "0.4.1"
-  sha256 "4ab5a4f011bed599a84949677f59f6763ca73af18b30bf38ac023819295c6594"
+  version "0.4.2"
+  sha256 "50e196113e4a1e4b5ee569322eb05a6b42f8ab94acc3577b6d4bdf8684c646fc"
 
   url "https://github.com/devbymak/fan-control/releases/download/v#{version}/FanControl-#{version}.zip"
   name "Fan Control"
